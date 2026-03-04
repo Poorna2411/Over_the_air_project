@@ -4,10 +4,10 @@
 #define STM32_RX 16
 #define STM32_TX 17
 
-const char* ssid = "poorna";
-const char* password = "poorna2411";
+const char* ssid = "xxxxxxxx";
+const char* password = "xxxxxx";
 
-String firmwareURL = "http://10.39.169.237:8000/firmware.bin";
+String firmwareURL = "http://xxxxxxxxxxxxxxxxxx/firmware.bin";
 
 HardwareSerial stm32(2);
 
